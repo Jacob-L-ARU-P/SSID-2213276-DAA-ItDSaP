@@ -1,0 +1,14 @@
+Kaggle:
+   - Global Life Expectancy Historical Dataset
+   - https://www.kaggle.com/datasets/hasibalmuzdadid/global-life-expectancy-historical-dataset
+
+   - World Population Dataset
+   - https://www.kaggle.com/datasets/ahmadjalalmasood123/world-population-dataset
+
+United Nations:
+   - Life Expectancy at Birth for both sexes combined (years)
+   - https://data.un.org/Data.aspx?d=PopDiv&f=variableID%3a68
+
+   - International Migration Flows
+   - https://www.un.org/development/desa/pd/data/international-migration-flows
+
