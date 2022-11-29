@@ -7,5 +7,7 @@ Contents:
 - Main Folder
   - Folder 1; Data Analysis, Datasets and Jupyter Notebook
   - Folder 2; HTML & associated CSS files for companion webpage
+- Main Folder 2
+  - Data report document, either word or pdf, currently undecided
+  - Data report document(s), draft versions
 - Main Folder.zip (Zipped for Canvas Submission, as requested)
-- Data report document, either word or pdf, currently undecided
