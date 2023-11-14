@@ -1,0 +1,5 @@
+GDHI source, from section 4, .xlsx download button:
+https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/bulletins/regionalgrossdisposablehouseholdincomegdhi/1997to2021
+
+Life Expectancy Source, "2001 to 2003 & 2018 to 2020" edition of dataset:
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/lifeexpectancyestimatesallagesuk
